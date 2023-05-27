@@ -1,0 +1,15 @@
+.root {
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    width: 100%;
+    display: flex;
+}
+
+.main {
+    height: 570px;
+    width: 460px;
+    background-color: red;
+    border-radius: 15px;
+
+}
